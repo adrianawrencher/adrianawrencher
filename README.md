@@ -1,7 +1,7 @@
 ### Hi! I'm Adriana Wrencher 👋
 
 - 🌱 I’m currently learning JavaScript, HTML5, CSS3, Java and Angular
-- 📫 How to reach me: https://www.linkedin.com/in/adriana-wrencher-11ba9821b/
+- 📫 How to reach me: https://www.linkedin.com/in/adriana-wrencher/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I also have a degree in Literature and Linguistics! 
 
